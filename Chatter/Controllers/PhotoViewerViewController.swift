@@ -1,5 +1,5 @@
 //
-//  SeconViewController.swift
+//  PhotoViewerViewController.swift
 //  Chatter
 //
 //  Created by Nezar Khabar on 10/13/21.
@@ -7,14 +7,14 @@
 
 import UIKit
 
-class SeconViewController: UIViewController {
+class PhotoViewerViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
     }
-
+    
 
     /*
     // MARK: - Navigation
